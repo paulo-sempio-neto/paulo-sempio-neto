@@ -1,6 +1,6 @@
 <div align="center">
 
-# Paulo Malpice Sempio Neto
+# Paulo Malpice Sêmpio Neto
 
 ### Backend Developer · Python · FastAPI · SQL
 
