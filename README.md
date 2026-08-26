@@ -1,8 +1,7 @@
+<img src="./github-profile-banner.png" alt="Paulo Malpice Sempio Neto — Backend Developer" width="100%">
+
 <div align="center">
 
-# Paulo Malpice Sêmpio Neto
-
-### Backend Developer · Python · FastAPI · SQL
 
 I build clean backend applications, REST APIs, and data-driven solutions with a focus on clarity, validation, and maintainable code.
 
