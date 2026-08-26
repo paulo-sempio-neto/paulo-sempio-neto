@@ -5,7 +5,6 @@
 
 I build clean backend applications, REST APIs, and data-driven solutions with a focus on clarity, validation, and maintainable code.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/paulo-sempio-neto)
 
 </div>
 
