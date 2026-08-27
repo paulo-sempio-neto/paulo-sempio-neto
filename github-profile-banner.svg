@@ -1,0 +1,173 @@
+<svg width="1280" height="400" viewBox="0 0 1280 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+
+<!-- Fundo animado -->
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#020617">
+        <animate attributeName="stop-color"
+        values="#020617;#001b35;#020617"
+        dur="8s"
+        repeatCount="indefinite"/>
+    </stop>
+
+    <stop offset="100%" stop-color="#001f3f">
+        <animate attributeName="stop-color"
+        values="#001f3f;#003b66;#001f3f"
+        dur="8s"
+        repeatCount="indefinite"/>
+    </stop>
+</linearGradient>
+
+
+<!-- Glow -->
+<filter id="glow">
+<feGaussianBlur stdDeviation="8"/>
+</filter>
+
+
+<!-- Brilho passando -->
+<linearGradient id="shine">
+<stop offset="0%" stop-color="transparent"/>
+<stop offset="50%" stop-color="#00eaff"/>
+<stop offset="100%" stop-color="transparent"/>
+</linearGradient>
+
+
+</defs>
+
+
+<!-- Background -->
+<rect width="1280" height="400" fill="url(#bg)"/>
+
+
+<!-- Pontos arquitetura -->
+
+<g fill="#00d9ff">
+
+<circle cx="1050" cy="90" r="3">
+<animate attributeName="opacity"
+values="0.2;1;0.2"
+dur="2s"
+repeatCount="indefinite"/>
+</circle>
+
+<circle cx="1100" cy="140" r="3">
+<animate attributeName="opacity"
+values="1;0.2;1"
+dur="3s"
+repeatCount="indefinite"/>
+</circle>
+
+<circle cx="1150" cy="80" r="3">
+<animate attributeName="opacity"
+values="0.3;1;0.3"
+dur="2.5s"
+repeatCount="indefinite"/>
+</circle>
+
+</g>
+
+
+<!-- Linhas de arquitetura -->
+
+<path d="M950 150 L1100 150 L1170 220"
+stroke="#008cff"
+stroke-width="2"
+opacity="0.5">
+
+<animate attributeName="opacity"
+values="0.3;1;0.3"
+dur="4s"
+repeatCount="indefinite"/>
+
+</path>
+
+
+<!-- Onda de dados -->
+
+<path d="
+M0 300
+C200 230 300 370 500 300
+C700 230 850 370 1280 280"
+stroke="#00bfff"
+stroke-width="3"
+fill="none">
+
+<animate attributeName="d"
+dur="6s"
+repeatCount="indefinite"
+values="
+M0 300 C200 230 300 370 500 300 C700 230 850 370 1280 280;
+M0 280 C200 370 300 230 500 280 C700 370 850 230 1280 300;
+M0 300 C200 230 300 370 500 300 C700 230 850 370 1280 280
+"/>
+
+</path>
+
+
+<!-- Linha de brilho -->
+
+<rect x="-200" y="190" width="300" height="3" fill="url(#shine)">
+
+<animate attributeName="x"
+from="-200"
+to="1280"
+dur="5s"
+repeatCount="indefinite"/>
+
+</rect>
+
+
+
+<!-- Nome -->
+
+<text x="640" y="170"
+text-anchor="middle"
+fill="white"
+font-size="48"
+font-family="Arial, sans-serif"
+font-weight="700">
+
+Paulo Malpice Sêmpio Neto
+
+<animate attributeName="opacity"
+values="0;1;1"
+dur="2s"
+repeatCount="indefinite"/>
+
+</text>
+
+
+
+<!-- Cargo -->
+
+<text x="640" y="230"
+text-anchor="middle"
+fill="#00d9ff"
+font-size="24"
+font-family="Arial"
+letter-spacing="8">
+
+BACKEND DEVELOPER
+
+</text>
+
+
+
+<!-- Mensagem -->
+
+<text x="640" y="275"
+text-anchor="middle"
+fill="#cbd5e1"
+font-size="18"
+font-family="Arial"
+letter-spacing="4">
+
+Building reliable software systems
+
+</text>
+
+
+
+</svg>
