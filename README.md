@@ -1,4 +1,6 @@
-<img src="./github-profile-banner.png" alt="Paulo Malpice Sempio Neto — Backend Developer" width="100%">
+<p align="center">
+  <img src="./github-profile-banner.png" width="100%" />
+</p>
 
 <p align="center">
   I build clean backend applications and REST APIs with Python, focusing on validation, relational data, automated testing, and maintainable code.
