@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  I build clean backend applications and REST APIs with Python, focusing on validation, relational data, automated testing, and maintainable code.
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&width=700&lines=Backend+Developer;Building+clean+REST+APIs;Python+%7C+FastAPI+%7C+SQL;Focused+on+clean+and+maintainable+code;Learning+Software+Architecture" />
 </p>
 
 ---
