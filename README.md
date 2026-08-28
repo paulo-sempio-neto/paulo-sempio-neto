@@ -16,8 +16,11 @@ My current focus is REST API development, SQL, input validation, automated testi
 
 ## Featured Project
 
-### [Product Management System](https://github.com/paulo-sempio-neto/Sistema_Produtos)
-
+<h3>
+  <a href="https://github.com/paulo-sempio-neto/Sistema_Produtos/blob/master/api.py">
+    Product Management System
+  </a>
+</h3>
 A product management application with a command-line interface and a FastAPI REST API.
 
 * Complete product CRUD operations
