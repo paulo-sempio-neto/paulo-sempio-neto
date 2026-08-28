@@ -60,6 +60,8 @@ A product management application with a command-line interface and a FastAPI RES
 
 ## Let's Connect
 
-I am open to connecting with developers, collaborators, and teams working on backend products.
+I'm open to backend opportunities, technical collaborations, and conversations about software development.
 
-[LinkedIn →](https://www.linkedin.com/in/paulo-sempio-neto)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B3A67?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-sempio-neto)
+[![Email](https://img.shields.io/badge/Email-0B3A67?style=for-the-badge&logoColor=white)](mailto:paulosempio.dev@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-0B3A67?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1444546177977684018)
