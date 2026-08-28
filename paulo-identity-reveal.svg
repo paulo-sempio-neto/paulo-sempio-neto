@@ -1,0 +1,163 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="142" viewBox="0 0 1000 142" role="img" aria-labelledby="title description">
+  <title id="title">Paulo Malpice Sêmpio Neto</title>
+  <desc id="description">Transparent professional identity animation with a centered reveal and a subtle backend data pulse.</desc>
+
+  <defs>
+    <linearGradient id="titleLight" x1="250" y1="0" x2="750" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0B3A67"/>
+      <stop offset="0.5" stop-color="#075EA8"/>
+      <stop offset="1" stop-color="#0969DA"/>
+    </linearGradient>
+
+    <linearGradient id="titleDark" x1="250" y1="0" x2="750" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#F4FBFF"/>
+      <stop offset="0.52" stop-color="#BCEEFF"/>
+      <stop offset="1" stop-color="#58D6FF"/>
+    </linearGradient>
+
+    <linearGradient id="signalLight" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0969DA" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#0969DA" stop-opacity="0.82"/>
+      <stop offset="1" stop-color="#0969DA" stop-opacity="0"/>
+    </linearGradient>
+
+    <linearGradient id="signalDark" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58D6FF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#58D6FF" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#58D6FF" stop-opacity="0"/>
+    </linearGradient>
+
+    <filter id="pulseGlow" x="-100%" y="-200%" width="300%" height="500%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <clipPath id="identityReveal">
+      <rect x="0" y="12" width="1000" height="100" rx="8">
+        <animate attributeName="x" values="500;0" dur="1.15s" begin="0.12s" fill="freeze" calcMode="spline" keySplines="0.16 0.8 0.25 1"/>
+        <animate attributeName="width" values="0;1000" dur="1.15s" begin="0.12s" fill="freeze" calcMode="spline" keySplines="0.16 0.8 0.25 1"/>
+      </rect>
+    </clipPath>
+
+    <style>
+      .title-text { fill: url(#titleLight); }
+      .role-text { fill: #315D7F; }
+      .precision-mark,
+      .signal-node,
+      .live-pulse { stroke: #0969DA; }
+      .signal-path { stroke: url(#signalLight); }
+      .live-pulse { fill: #0969DA; }
+
+      .identity {
+        animation: identityIn 1.15s .12s cubic-bezier(.16,.8,.25,1) both;
+      }
+
+      .role-text {
+        animation: roleIn .8s .88s cubic-bezier(.2,.75,.25,1) both;
+      }
+
+      .precision-mark {
+        stroke-dasharray: 68;
+        animation: markIn .9s .42s cubic-bezier(.2,.8,.25,1) both;
+      }
+
+      .signal-path {
+        stroke-dasharray: 380;
+        animation: signalIn 1.1s 1.05s ease-out both;
+      }
+
+      .signal-node {
+        animation: nodeIn .45s 1.75s ease-out both;
+      }
+
+      .live-pulse {
+        animation: pulseBreath 2.6s ease-in-out infinite;
+      }
+
+      @keyframes identityIn {
+        from { opacity: 0; transform: translateY(8px); filter: blur(5px); }
+        65% { filter: blur(0); }
+        to { opacity: 1; transform: translateY(0); filter: blur(0); }
+      }
+
+      @keyframes roleIn {
+        from { opacity: 0; transform: translateY(6px); letter-spacing: 4px; }
+        to { opacity: 1; transform: translateY(0); letter-spacing: 1.4px; }
+      }
+
+      @keyframes markIn {
+        from { opacity: 0; stroke-dashoffset: 68; }
+        to { opacity: .78; stroke-dashoffset: 0; }
+      }
+
+      @keyframes signalIn {
+        from { opacity: 0; stroke-dashoffset: 380; }
+        to { opacity: 1; stroke-dashoffset: 0; }
+      }
+
+      @keyframes nodeIn {
+        from { opacity: 0; transform: scale(0); }
+        to { opacity: .9; transform: scale(1); }
+      }
+
+      @keyframes pulseBreath {
+        0%, 100% { opacity: .3; }
+        50% { opacity: 1; }
+      }
+
+      @media (prefers-color-scheme: dark) {
+        .title-text { fill: url(#titleDark); }
+        .role-text { fill: #B9E7FF; }
+        .precision-mark,
+        .signal-node,
+        .live-pulse { stroke: #58D6FF; }
+        .signal-path { stroke: url(#signalDark); }
+        .live-pulse { fill: #58D6FF; }
+      }
+
+      @media (prefers-reduced-motion: reduce) {
+        .identity,
+        .role-text,
+        .precision-mark,
+        .signal-path,
+        .signal-node,
+        .live-pulse {
+          animation: none;
+        }
+      }
+    </style>
+  </defs>
+
+  <!-- No background element: the entire canvas is transparent. -->
+  <g clip-path="url(#identityReveal)">
+    <g class="identity" text-anchor="middle">
+      <text class="title-text" x="500" y="61" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="43" font-weight="750" letter-spacing="0.15">
+        Paulo Malpice Sêmpio Neto
+      </text>
+      <text class="role-text" x="500" y="96" font-family="JetBrains Mono, Consolas, monospace" font-size="17" font-weight="600" letter-spacing="1.4">
+        BACKEND DEVELOPER · PYTHON · FASTAPI · SQL
+      </text>
+    </g>
+  </g>
+
+  <!-- Precision marks draw toward the identity instead of forming a banner. -->
+  <g fill="none" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+    <path class="precision-mark" d="M176 46H154V84H176"/>
+    <path class="precision-mark" d="M824 46H846V84H824"/>
+  </g>
+
+  <!-- A restrained backend signal remains alive after the one-time reveal. -->
+  <path class="signal-path" pathLength="380" d="M310 118H690" fill="none" stroke-width="1.25" stroke-linecap="round"/>
+  <g fill="none" stroke-width="1.4">
+    <circle class="signal-node" cx="310" cy="118" r="3"/>
+    <circle class="signal-node" cx="500" cy="118" r="3"/>
+    <circle class="signal-node" cx="690" cy="118" r="3"/>
+  </g>
+
+  <circle class="live-pulse" cx="310" cy="118" r="2.8" filter="url(#pulseGlow)">
+    <animateMotion dur="5.2s" begin="1.8s" repeatCount="indefinite" path="M0 0H380"/>
+  </circle>
+</svg>
