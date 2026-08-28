@@ -14,6 +14,12 @@ I am a backend developer based in Cuiabá, Mato Grosso, Brazil, focused on build
 
 My current focus is REST API development, SQL, input validation, automated testing, and clean project organization.
 
+## 🎓 Education
+
+**Bachelor of Science in Computer Science**  
+Universidade de Cuiabá (UNIC) · Cuiabá, Brazil  
+February 2026 – Expected December 2029 · Hybrid
+
 ## 📌 Featured Project
 
 <h3>
