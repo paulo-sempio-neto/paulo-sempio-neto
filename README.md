@@ -8,13 +8,13 @@
 
 ---
 
-##👨‍💻 About Me
+## 👨‍💻 About Me
 
 I am a backend developer based in Cuiabá, Mato Grosso, Brazil, focused on building reliable applications with Python and FastAPI.
 
 My current focus is REST API development, SQL, input validation, automated testing, and clean project organization.
 
-##📌 Featured Project
+## 📌 Featured Project
 
 <h3>
   <a href="https://github.com/paulo-sempio-neto/Sistema_Produtos/blob/master/api.py">
@@ -35,7 +35,7 @@ A backend application for **product management**, available through a **command-
 [![View Source Code](https://img.shields.io/badge/View_Source_Code-1F6FEB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/paulo-sempio-neto/Sistema_Produtos)
 
 
-##🛠️ Core Stack
+## 🛠️ Core Stack
 
 **Backend**
 
@@ -54,7 +54,7 @@ A backend application for **product management**, available through a **command-
 ![Git](https://img.shields.io/badge/Git-0B3A67?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-0B3A67?style=for-the-badge&logo=github&logoColor=white)
 
-##🎯 Engineering Focus
+## 🎯 Engineering Focus
 
 | Focus Area | Practice |
 |---|---|
@@ -63,7 +63,7 @@ A backend application for **product management**, available through a **command-
 | **Quality & Validation** | Pydantic validation, predictable error handling and automated tests |
 | **Maintainability** | Clear project organization, Git workflows and technical documentation |
 
-##🤝 Let's Connect
+## 🤝 Let's Connect
 
 I'm open to backend opportunities, technical collaborations, and conversations about software development.
 
