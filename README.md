@@ -51,11 +51,12 @@ A product management application with a command-line interface and a FastAPI RES
 
 ## Engineering Focus
 
-* REST APIs and HTTP fundamentals
-* Relational databases and SQL
-* Input validation and predictable error handling
-* Automated testing and maintainable code
-* Git-based workflows and technical documentation
+| Focus Area | Practice |
+|---|---|
+| **API Design** | REST APIs, HTTP fundamentals and consistent responses |
+| **Data & Persistence** | Relational databases, SQL and reliable data access |
+| **Quality & Validation** | Pydantic validation, predictable error handling and automated tests |
+| **Maintainability** | Clear project organization, Git workflows and technical documentation |
 
 ## Let's Connect
 
