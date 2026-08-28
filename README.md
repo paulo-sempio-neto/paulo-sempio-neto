@@ -32,12 +32,22 @@ A product management application with a command-line interface and a FastAPI RES
 
 ## Core Stack
 
-![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square\&logo=python\&logoColor=3776AB)
-![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat-square\&logo=fastapi\&logoColor=009688)
-![SQL](https://img.shields.io/badge/SQL-0D1117?style=flat-square\&logoColor=22D3EE)
-![SQLite](https://img.shields.io/badge/SQLite-0D1117?style=flat-square\&logo=sqlite\&logoColor=44A2D4)
-![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square\&logo=git\&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square\&logo=github\&logoColor=FFFFFF)
+**Backend**
+
+![Python](https://img.shields.io/badge/Python-0B3A67?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0B3A67?style=for-the-badge&logo=fastapi&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-0B3A67?style=for-the-badge&logo=pydantic&logoColor=white)
+
+**Database**
+
+![SQL](https://img.shields.io/badge/SQL-0B3A67?style=for-the-badge&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-0B3A67?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Testing & Tools**
+
+![Pytest](https://img.shields.io/badge/Pytest-0B3A67?style=for-the-badge&logo=pytest&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0B3A67?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-0B3A67?style=for-the-badge&logo=github&logoColor=white)
 
 ## Engineering Focus
 
