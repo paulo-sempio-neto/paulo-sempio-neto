@@ -63,6 +63,13 @@ A backend application for **product management**, available through a **command-
 | **Quality & Validation** | Pydantic validation, predictable error handling and automated tests |
 | **Maintainability** | Clear project organization, Git workflows and technical documentation |
 
+## 📜 Certifications
+
+- **[CS50's Introduction to Computer Science](LINK)** — Harvard University
+-
+-
+-
+-
 ## 🤝 Let's Connect
 
 I'm open to backend opportunities, technical collaborations, and conversations about software development.
