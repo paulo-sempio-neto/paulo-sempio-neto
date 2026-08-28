@@ -76,6 +76,12 @@ A backend application for **product management**, available through a **command-
 -
 -
 -
+
+## 🌐 Languages
+
+- **Portuguese:** Native
+- **English:** Intermediate (B1) · Currently improving
+
 ## 🤝 Let's Connect
 
 I'm open to backend opportunities, technical collaborations, and conversations about software development.
