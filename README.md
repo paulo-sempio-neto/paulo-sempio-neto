@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./github-profile-banner.svg" width="90%">
+  <img src="./paulo-github-animation.svg" width="100%" alt="Paulo Malpice Sêmpio Neto">
 </p>
 
 <p align="center">
