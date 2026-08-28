@@ -21,14 +21,16 @@ My current focus is REST API development, SQL, input validation, automated testi
     Product Management System
   </a>
 </h3>
-A product management application with a command-line interface and a FastAPI REST API.
 
-* Complete product CRUD operations
-* SQLite persistence and Pydantic validation
-* Exact, partial, and accent-insensitive product search
-* Automated database tests with Pytest
+A backend application for **product management**, available through a **command-line interface** and a **FastAPI REST API**.
 
-**Built with:** Python · FastAPI · SQLite · SQL · Pydantic · Pytest · Uvicorn
+* **Complete CRUD operations** for product management
+* **SQLite persistence** with Pydantic data validation
+* **Flexible product search** with exact, partial and accent-insensitive matching
+* **Automated database tests** with Pytest
+
+**Built with:** `Python` · `FastAPI` · `SQLite` · `SQL` · `Pydantic` · `Pytest` · `Uvicorn`
+
 
 [![View Source Code](https://img.shields.io/badge/View_Source_Code-1F6FEB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/paulo-sempio-neto/Sistema_Produtos)
 
