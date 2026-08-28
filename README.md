@@ -27,7 +27,8 @@ A product management application with a command-line interface and a FastAPI RES
 
 **Built with:** Python · FastAPI · SQLite · SQL · Pydantic · Pytest · Uvicorn
 
-[View source code →](https://github.com/paulo-sempio-neto/Sistema_Produtos)
+[![View Source Code](https://img.shields.io/badge/View_Source_Code-1F6FEB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/paulo-sempio-neto/Sistema_Produtos)
+
 
 ## Core Stack
 
