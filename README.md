@@ -25,6 +25,10 @@ February 2026 – Expected December 2029 · Hybrid
 <h3>
   <a href="https://github.com/paulo-sempio-neto/Sistema_Produtos/blob/master/api.py">
     Product Management System
+    <br>
+    -
+    <br>
+    -
   </a>
 </h3>
 
