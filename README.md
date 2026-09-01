@@ -104,3 +104,56 @@ I'm open to backend opportunities, technical collaborations, and conversations a
          alt="Explore My Projects">
   </a>
 </p>
+
+
+
+
+
+
+
+
+
+
+<h2 align="center">📊 Estatísticas do GitHub</h2>
+
+<div align="center">
+  <img
+    height="180"
+    src="https://github-stats-extended.vercel.app/api?username=paulo-sempio-neto&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github"
+    alt="Estatísticas do GitHub"
+  />
+
+  <img
+    height="180"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=paulo-sempio-neto&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+    alt="Linguagens mais utilizadas"
+  />
+</div>
+
+<br>
+
+<div align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=paulo-sempio-neto&theme=tokyonight&hide_border=true&locale=pt_BR"
+    alt="Sequência de contribuições"
+  />
+</div>
+
+<br>
+
+<div align="center">
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=paulo-sempio-neto&theme=tokyo-night&hide_border=true&area=true&custom_title=Atividade%20de%20Contribuições"
+    alt="Gráfico de contribuições"
+  />
+</div>
+
+<br>
+
+<div align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=paulo-sempio-neto&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"
+    alt="Troféus do GitHub"
+  />
+</div>
