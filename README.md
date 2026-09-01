@@ -100,7 +100,7 @@ I'm open to backend opportunities, technical collaborations, and conversations a
 <p align="center">
   <a href="https://github.com/paulo-sempio-neto?tab=repositories">
     <img src="./explore-my-projects.gif"
-         width="650"
+         width="750"
          alt="Explore My Projects">
   </a>
 </p>
