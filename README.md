@@ -16,9 +16,9 @@ My current focus is REST API development, SQL, input validation, automated testi
 
 ## 🎓 Education
 
-**Bachelor of Science in Computer Science**  
-Universidade de Cuiabá (UNIC) · Cuiabá, Brazil  
-February 2026 – Expected December 2029 · Hybrid
+**Bachelor of Science in Computer Science** (in progress)
+Universidade de Cuiabá (UNIC)
+Expected graduation: December 2029
 
 ## 📌 Featured Project
 
