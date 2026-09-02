@@ -141,7 +141,7 @@ I'm open to backend opportunities, technical collaborations, and conversations a
   <a href="https://github.com/paulo-sempio-neto?tab=repositories">
     <img
       src="./explore-my-projects.gif"
-      width="750"
+      width="1445"
       alt="Explore My Projects"
     />
   </a>
