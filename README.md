@@ -135,12 +135,14 @@ I'm open to backend opportunities, technical collaborations, and conversations a
 [![Discord](https://img.shields.io/badge/Discord-0B3A67?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1444546177977684018)
 
 
-<br>
+
 
 <p align="center">
   <a href="https://github.com/paulo-sempio-neto?tab=repositories">
-    <img src="./explore-my-projects.gif"
-         width="750"
-         alt="Explore My Projects">
+    <img
+      src="./explore-my-projects.gif"
+      width="750"
+      alt="Explore My Projects"
+    />
   </a>
 </p>
