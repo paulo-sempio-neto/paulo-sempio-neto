@@ -20,29 +20,29 @@ My current focus is REST API development, SQL, input validation, automated testi
 Universidade de Cuiabá (UNIC)
 Expected graduation: December 2029
 
+
+
+
+
 ## 📌 Featured Project
 
-<h3>
-  <a href="https://github.com/paulo-sempio-neto/Sistema_Produtos/blob/master/api.py">
-    Product Management System
-    <br>
-    -
-    <br>
-    -
+<p align="center">
+  <a href="https://github.com/paulo-sempio-neto/Sistema_Produtos">
+    <img
+      src="./product-management-system.gif"
+      width="100%"
+      alt="Explore Product Management System"
+    />
   </a>
-</h3>
+</p>
 
-A backend application for **product management**, available through a **command-line interface** and a **FastAPI REST API**.
-
-* **Complete CRUD operations** for product management
-* **SQLite persistence** with Pydantic data validation
-* **Flexible product search** with exact, partial and accent-insensitive matching
-* **Automated database tests** with Pytest
-
-**Built with:** `Python` · `FastAPI` · `SQLite` · `SQL` · `Pydantic` · `Pytest` · `Uvicorn`
-
+A backend application for product management, combining a command-line interface with a FastAPI REST API, SQLite persistence, data validation, and automated testing.
 
 [![View Source Code](https://img.shields.io/badge/View_Source_Code-1F6FEB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/paulo-sempio-neto/Sistema_Produtos)
+
+
+
+
 
 
 ## 🛠️ Core Stack
