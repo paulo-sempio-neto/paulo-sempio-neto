@@ -126,23 +126,21 @@ A backend application for product management, combining a command-line interface
 
 
 
-## 🤝 Let's Connect
-
-I'm open to backend opportunities, technical collaborations, and conversations about software development.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B3A67?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-sempio-neto)
-[![Email](https://img.shields.io/badge/Email-0B3A67?style=for-the-badge&logoColor=white)](mailto:paulosempio.dev@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-0B3A67?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1444546177977684018)
-
-
-
 
 <p align="center">
   <a href="https://github.com/paulo-sempio-neto?tab=repositories">
     <img
       src="./explore-my-projects.gif"
-      width="1445"
+      width="2000"
       alt="Explore My Projects"
     />
   </a>
 </p>
+
+
+
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B3A67?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-sempio-neto)
+[![Email](https://img.shields.io/badge/Email-0B3A67?style=for-the-badge&logoColor=white)](mailto:paulosempio.dev@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-0B3A67?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1444546177977684018)
