@@ -108,10 +108,8 @@ A backend application for product management, combining a command-line interface
   alt="Language Footprint"
 />
 
-<br><br>
-
 <img
-  width="75%"
+  width="48%"
   src="https://streak-stats.demolab.com?user=paulo-sempio-neto&background=07141D&border=164052&stroke=164052&ring=00CFFF&fire=36D8FF&currStreakNum=F4FBFF&sideNums=F4FBFF&currStreakLabel=79DFF7&sideLabels=79DFF7&dates=7295A5&locale=en"
   alt="Contribution Rhythm"
 />
