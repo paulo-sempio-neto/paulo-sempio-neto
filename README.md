@@ -64,22 +64,19 @@ A backend application for product management, combining a command-line interface
 ![Git](https://img.shields.io/badge/Git-0B3A67?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-0B3A67?style=for-the-badge&logo=github&logoColor=white)
 
-## 🎯 Engineering Focus
 
-| Focus Area | Practice |
-|---|---|
-| **API Design** | REST APIs, HTTP fundamentals and consistent responses |
-| **Data & Persistence** | Relational databases, SQL and reliable data access |
-| **Quality & Validation** | Pydantic validation, predictable error handling and automated tests |
-| **Maintainability** | Clear project organization, Git workflows and technical documentation |
+
 
 ## 📜 Courses & Certificates
 
 - **[CS50's Introduction to Computer Science](LINK)** — Harvard University
--
--
--
--
+
+
+
+
+
+
+
 
 ## 🌐 Languages
 
