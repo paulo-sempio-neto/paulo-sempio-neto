@@ -105,7 +105,7 @@ A backend application for product management, combining a command-line interface
 
 <div align="center">
 
-<sub><h4>My GitHub activity, contribution rhythm and technology footprint.<h4></sub>
+<sub><h4>My GitHub activity, contribution rhythm and technology footprint.</h4></sub>
 
 <br><br>
 
