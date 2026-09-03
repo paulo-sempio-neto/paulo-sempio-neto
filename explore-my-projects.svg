@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="120" viewBox="0 0 560 120" role="img" aria-labelledby="title description">
+  <title id="title">Explore My Projects</title>
+  <desc id="description">A transparent, theme-aware call-to-action with a subtle cyan signal and a gently moving arrow.</desc>
+
+  <defs>
+    <linearGradient id="signalLight" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0969DA" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#00AEEF" stop-opacity="1"/>
+      <stop offset="1" stop-color="#0969DA" stop-opacity="0"/>
+    </linearGradient>
+
+    <linearGradient id="signalDark" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00CFFF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#BCEEFF" stop-opacity="1"/>
+      <stop offset="1" stop-color="#00CFFF" stop-opacity="0"/>
+    </linearGradient>
+
+    <filter id="softGlow" x="-80%" y="-120%" width="260%" height="340%">
+      <feGaussianBlur stdDeviation="2.2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <style>
+      .card {
+        fill: #F6F8FA;
+        fill-opacity: .72;
+        stroke: #B6C2CF;
+        stroke-width: 1.25;
+      }
+
+      .prompt,
+      .label {
+        dominant-baseline: middle;
+      }
+
+      .prompt {
+        fill: #0969DA;
+        font: 700 24px JetBrains Mono, Consolas, monospace;
+      }
+
+      .label {
+        fill: #0B3A67;
+        font: 700 24px Inter, Segoe UI, Arial, sans-serif;
+        letter-spacing: .25px;
+      }
+
+      .track {
+        stroke: #8C959F;
+        stroke-opacity: .34;
+        stroke-width: 1.5;
+      }
+
+      .signal {
+        stroke: url(#signalLight);
+        stroke-width: 3;
+        stroke-linecap: round;
+        stroke-dasharray: 54 230;
+        filter: url(#softGlow);
+        animation: signalPass 4.4s ease-in-out infinite;
+      }
+
+      .arrow {
+        animation: arrowMove 4.4s ease-in-out infinite;
+        transform-origin: 280px 93px;
+      }
+
+      .arrow-path {
+        fill: none;
+        stroke: #0969DA;
+        stroke-width: 3;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        filter: url(#softGlow);
+      }
+
+      @keyframes signalPass {
+        0%, 12% { opacity: 0; stroke-dashoffset: 230; }
+        18% { opacity: 1; }
+        52% { opacity: 1; stroke-dashoffset: -230; }
+        58%, 100% { opacity: 0; stroke-dashoffset: -230; }
+      }
+
+      @keyframes arrowMove {
+        0%, 58%, 100% { transform: translateY(0); }
+        66% { transform: translateY(5px); }
+        74% { transform: translateY(0); }
+        81% { transform: translateY(3px); }
+        88% { transform: translateY(0); }
+      }
+
+      @media (prefers-color-scheme: dark) {
+        .card {
+          fill: #07141D;
+          fill-opacity: .88;
+          stroke: #164052;
+        }
+
+        .prompt { fill: #00CFFF; }
+        .label { fill: #EAF8FF; }
+        .track { stroke: #79DFF7; stroke-opacity: .22; }
+        .signal { stroke: url(#signalDark); }
+        .arrow-path { stroke: #00CFFF; }
+      }
+
+      @media (prefers-reduced-motion: reduce) {
+        .signal {
+          animation: none;
+          opacity: .7;
+          stroke-dasharray: none;
+        }
+
+        .arrow { animation: none; }
+      }
+    </style>
+  </defs>
+
+  <!-- The canvas itself has no background. -->
+  <rect class="card" x="72" y="10" width="416" height="62" rx="20"/>
+
+  <text class="prompt" x="109" y="41">&gt;</text>
+  <text class="label" x="286" y="41" text-anchor="middle">Explore My Projects</text>
+
+  <line class="track" x1="160" y1="63" x2="400" y2="63"/>
+  <line class="signal" x1="160" y1="63" x2="400" y2="63" pathLength="230"/>
+
+  <g class="arrow" aria-hidden="true">
+    <path class="arrow-path" d="M280 82v17M272 92l8 8 8-8"/>
+  </g>
+</svg>
