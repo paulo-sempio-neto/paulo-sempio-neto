@@ -1,0 +1,188 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="84" viewBox="0 0 1000 84" role="img" aria-labelledby="title description">
+  <title id="title">Backend Build Log</title>
+  <desc id="description">A typing animation about API contracts, failure-path testing, and steady improvement through reliable commits.</desc>
+
+  <defs>
+    <linearGradient id="panelEdgeLight" x1="30" y1="0" x2="970" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0969DA" stop-opacity=".18"/>
+      <stop offset=".5" stop-color="#0969DA" stop-opacity=".82"/>
+      <stop offset="1" stop-color="#0969DA" stop-opacity=".18"/>
+    </linearGradient>
+
+    <linearGradient id="panelEdgeDark" x1="30" y1="0" x2="970" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00CFFF" stop-opacity=".14"/>
+      <stop offset=".5" stop-color="#00CFFF" stop-opacity=".72"/>
+      <stop offset="1" stop-color="#00CFFF" stop-opacity=".14"/>
+    </linearGradient>
+
+    <filter id="cursorGlow" x="-300%" y="-50%" width="700%" height="200%">
+      <feGaussianBlur stdDeviation="1.8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <clipPath id="typeOne">
+      <rect x="105" y="38" width="0" height="29">
+        <animate attributeName="width" values="0;0;570;570;0;0" keyTimes="0;.015;.15;.315;.33;1" dur="15s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+
+    <clipPath id="typeTwo">
+      <rect x="105" y="38" width="0" height="29">
+        <animate attributeName="width" values="0;0;570;570;0;0" keyTimes="0;.345;.485;.648;.66;1" dur="15s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+
+    <clipPath id="typeThree">
+      <rect x="105" y="38" width="0" height="29">
+        <animate attributeName="width" values="0;0;590;590;0" keyTimes="0;.675;.82;.982;1" dur="15s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+
+    <style>
+      .panel {
+        fill: #F6F8FA;
+        fill-opacity: .76;
+        stroke: url(#panelEdgeLight);
+        stroke-width: 1.2;
+      }
+
+      .meta {
+        fill: #315D7F;
+        font: 700 12px JetBrains Mono, Consolas, monospace;
+        letter-spacing: 1.25px;
+      }
+
+      .live-dot { fill: #1F883D; }
+
+      .divider {
+        stroke: #8C959F;
+        stroke-opacity: .3;
+        stroke-width: 1;
+      }
+
+      .prompt {
+        fill: #0969DA;
+        font: 700 23px JetBrains Mono, Consolas, monospace;
+      }
+
+      .command,
+      .fallback-text {
+        fill: #0B3A67;
+        font: 500 22px JetBrains Mono, Consolas, monospace;
+      }
+
+      .cursor {
+        fill: #0969DA;
+        filter: url(#cursorGlow);
+        animation: cursorBlink .78s step-end infinite;
+      }
+
+      .status-box {
+        fill: #DDF4E4;
+        stroke: #1A7F37;
+        stroke-opacity: .45;
+        stroke-width: 1;
+      }
+
+      .status-text {
+        fill: #116329;
+        font: 700 11px JetBrains Mono, Consolas, monospace;
+        letter-spacing: .75px;
+      }
+
+      .fallback { display: none; }
+
+      @keyframes cursorBlink {
+        0%, 48% { opacity: 1; }
+        49%, 100% { opacity: .12; }
+      }
+
+      @media (prefers-color-scheme: dark) {
+        .panel {
+          fill: #07141D;
+          fill-opacity: .84;
+          stroke: url(#panelEdgeDark);
+        }
+
+        .meta { fill: #79DFF7; }
+        .live-dot { fill: #3FB950; }
+        .divider { stroke: #164052; stroke-opacity: .9; }
+        .prompt { fill: #00CFFF; }
+        .command,
+        .fallback-text { fill: #D8F3FF; }
+        .cursor { fill: #00CFFF; }
+        .status-box {
+          fill: #0D2A22;
+          stroke: #3FB950;
+          stroke-opacity: .55;
+        }
+        .status-text { fill: #7EE787; }
+      }
+
+      @media (prefers-reduced-motion: reduce) {
+        .motion { display: none; }
+        .fallback { display: inline; }
+        .cursor { animation: none; }
+      }
+    </style>
+  </defs>
+
+  <!-- The outer canvas is transparent; only the compact log panel is drawn. -->
+  <rect class="panel" x="30" y="4" width="940" height="76" rx="16"/>
+
+  <circle class="live-dot" cx="63" cy="21" r="4"/>
+  <text class="meta" x="76" y="25">BACKEND BUILD LOG</text>
+  <line class="divider" x1="63" y1="32" x2="937" y2="32"/>
+
+  <text class="prompt" x="66" y="62">&gt;</text>
+
+  <g class="motion">
+    <g opacity="1">
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.315;.33;1" dur="15s" repeatCount="indefinite"/>
+      <g clip-path="url(#typeOne)">
+        <text class="command" x="105" y="62">designing APIs with explicit contracts</text>
+        <rect class="cursor" x="572" y="42" width="3" height="22" rx="1"/>
+      </g>
+      <g opacity="0">
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.145;.175;.315;.33;1" dur="15s" repeatCount="indefinite"/>
+        <rect class="status-box" x="786" y="40" width="142" height="26" rx="13"/>
+        <text class="status-text" x="857" y="57" text-anchor="middle">SCHEMA READY</text>
+      </g>
+    </g>
+
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.33;.345;.648;.66;1" dur="15s" repeatCount="indefinite"/>
+      <g clip-path="url(#typeTwo)">
+        <text class="command" x="105" y="62">testing failure paths before shipping</text>
+        <rect class="cursor" x="584" y="42" width="3" height="22" rx="1"/>
+      </g>
+      <g opacity="0">
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.48;.51;.648;.66;1" dur="15s" repeatCount="indefinite"/>
+        <rect class="status-box" x="786" y="40" width="142" height="26" rx="13"/>
+        <text class="status-text" x="857" y="57" text-anchor="middle">TESTS PASSED</text>
+      </g>
+    </g>
+
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;.66;.675;.982;1" dur="15s" repeatCount="indefinite"/>
+      <g clip-path="url(#typeThree)">
+        <text class="command" x="105" y="62">improving one reliable commit at a time</text>
+        <rect class="cursor" x="650" y="42" width="3" height="22" rx="1"/>
+      </g>
+      <g opacity="0">
+        <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;.815;.845;.982;1" dur="15s" repeatCount="indefinite"/>
+        <rect class="status-box" x="786" y="40" width="142" height="26" rx="13"/>
+        <text class="status-text" x="857" y="57" text-anchor="middle">BUILD +1</text>
+      </g>
+    </g>
+  </g>
+
+  <g class="fallback">
+    <text class="fallback-text" x="105" y="62">building reliable APIs, one test at a time</text>
+    <rect class="status-box" x="786" y="40" width="142" height="26" rx="13"/>
+    <text class="status-text" x="857" y="57" text-anchor="middle">ACTIVE</text>
+  </g>
+</svg>
