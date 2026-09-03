@@ -86,37 +86,37 @@ A backend application for product management, combining a command-line interface
 
 
 
-<br>
-
 <div align="center">
 
-## Development Snapshot
+<h2>Development Snapshot</h2>
 
 <sub>My GitHub activity, contribution rhythm and technology footprint.</sub>
 
 <br><br>
 
 <img
-  width="48%"
-  src="https://github-stats-extended.vercel.app/api?username=paulo-sempio-neto&show_icons=true&include_all_commits=true&rank_icon=github&bg_color=07141D&title_color=F4FBFF&text_color=B9D6E2&icon_color=00CFFF&border_color=164052&custom_title=GitHub%20Overview"
+  width="470"
+  src="https://github-stats-extended.vercel.app/api?username=paulo-sempio-neto&show_icons=true&include_all_commits=true&rank_icon=github&bg_color=07141D&title_color=F4FBFF&text_color=B9D6E2&icon_color=00CFFF&border_color=164052&border_radius=22&custom_title=GitHub%20Overview"
   alt="GitHub Overview"
 />
 
+<br>
+
 <img
-  width="48%"
-  src="https://github-stats-extended.vercel.app/api/top-langs?username=paulo-sempio-neto&layout=donut&langs_count=6&bg_color=07141D&title_color=F4FBFF&text_color=B9D6E2&border_color=164052&custom_title=Language%20Footprint"
+  width="470"
+  src="https://github-stats-extended.vercel.app/api/top-langs?username=paulo-sempio-neto&layout=compact&langs_count=6&card_width=470&bg_color=07141D&title_color=F4FBFF&text_color=B9D6E2&border_color=164052&border_radius=22&custom_title=Language%20Footprint"
   alt="Language Footprint"
 />
 
+<br>
+
 <img
-  width="48%"
-  src="https://streak-stats.demolab.com?user=paulo-sempio-neto&background=07141D&border=164052&stroke=164052&ring=00CFFF&fire=36D8FF&currStreakNum=F4FBFF&sideNums=F4FBFF&currStreakLabel=79DFF7&sideLabels=79DFF7&dates=7295A5&locale=en"
+  width="470"
+  src="https://streak-stats.demolab.com?user=paulo-sempio-neto&background=07141D&border=164052&stroke=164052&ring=00CFFF&fire=36D8FF&currStreakNum=F4FBFF&sideNums=F4FBFF&currStreakLabel=79DFF7&sideLabels=79DFF7&dates=7295A5&locale=en&border_radius=22"
   alt="Contribution Rhythm"
 />
 
 </div>
-
-<br>
 
 
 
