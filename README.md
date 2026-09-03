@@ -22,16 +22,6 @@
 
 
 
-<p align="center">
-  <strong>🇧🇷 Resumo em português</strong><br>
-  Sou estudante de Ciência da Computação e desenvolvedor backend em formação,
-  com foco em Python, FastAPI, SQL e testes automatizados.
-</p>
-
-
-
-
-
 ## 👨‍💻 About Me
 
 I am a backend developer based in Cuiabá, Mato Grosso, Brazil, focused on building reliable applications with Python and FastAPI.
@@ -64,7 +54,13 @@ Expected graduation: December 2029
   </a>
 </p>
 
+
+
 A backend application for product management, combining a command-line interface with a FastAPI REST API, SQLite persistence, data validation, and automated testing.
+
+
+
+
 
 [![View Source Code](https://img.shields.io/badge/View_Source_Code-1F6FEB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/paulo-sempio-neto/Product-Management-System)
 
@@ -75,16 +71,26 @@ A backend application for product management, combining a command-line interface
 
 ## 🛠️ Core Stack
 
+
+
+
 **Backend**
 
 ![Python](https://img.shields.io/badge/Python-0B3A67?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0B3A67?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-0B3A67?style=for-the-badge&logo=pydantic&logoColor=white)
 
+
+
+
 **Database**
 
 ![SQL](https://img.shields.io/badge/SQL-0B3A67?style=for-the-badge&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-0B3A67?style=for-the-badge&logo=sqlite&logoColor=white)
+
+
+
+
 
 **Testing & Tools**
 
@@ -95,10 +101,13 @@ A backend application for product management, combining a command-line interface
 
 
 
+
+
+
 ## 📜 Courses & Certificates
 
-- **[CS50's Introduction to Computer Science](LINK)** — Harvard University **(in progress)**
-
+- **[CS50's Introduction to Computer Science](LINK_DO_CURSO)** — Harvard University **(in progress)**<br>
+  &nbsp;&nbsp;&#45; **Final project:** [Project Name](LINK_DO_PROJETO)
 
 
 
@@ -118,18 +127,27 @@ A backend application for product management, combining a command-line interface
 
 
 
-## 🚧 Currently Building
+<details>
+<summary><h2>🚧 Currently Building</h2></summary>
 
-I am currently improving the **[Product Management System](https://github.com/paulo-sempio-neto/Product-Management-System)**, a backend application built with Python, FastAPI and SQLite.
+<br>
 
-Current focus:
+### Multi-Tenant Project Management API
 
-- Improving API validation and error handling
-- Expanding automated tests for REST API endpoints
-- Refining the separation between API, business logic and database layers
-- Improving project documentation
+I am currently building a multi-tenant SaaS backend for managing companies, users, projects and tasks while keeping each company's data isolated.
 
+**Planned stack:** Python · FastAPI · PostgreSQL · SQLAlchemy · Alembic · Pydantic · JWT · Pytest · Docker
 
+**Current focus:**
+
+- Company and user registration
+- Authentication with password hashing and JWT
+- Roles and permissions for owners, administrators and members
+- Data isolation between companies
+- Project and task management
+- Automated testing
+
+</details>
 
 
 
@@ -179,36 +197,13 @@ Current focus:
 
 
 
-
-
 <h2>📫 Contact</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/paulo-sempio-neto">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0B3A67?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
-
-  <a href="mailto:paulosempio.dev@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-0B3A67?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-    />
-  </a>
-
-  <a href="https://discord.com/users/1444546177977684018">
-    <img
-      src="https://img.shields.io/badge/Discord-0B3A67?style=for-the-badge&logo=discord&logoColor=white"
-      alt="Discord"
-    />
-  </a>
+  <a href="https://www.linkedin.com/in/paulo-sempio-neto"><img src="https://img.shields.io/badge/LinkedIn-0B3A67?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:paulosempio.dev@gmail.com"><img src="https://img.shields.io/badge/Email-0B3A67?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://discord.com/users/1444546177977684018"><img src="https://img.shields.io/badge/Discord-0B3A67?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </p>
-
-<br>
-
-
 
 
 
