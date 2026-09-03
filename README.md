@@ -86,9 +86,15 @@ A backend application for product management, combining a command-line interface
 
 
 
-<div align="center">
 
-<h2>Development Snapshot</h2>
+
+
+<details>
+<summary><h2>📊 GitHub Statistics</h2></summary>
+
+<br>
+
+<div align="center">
 
 <sub>My GitHub activity, contribution rhythm and technology footprint.</sub>
 
@@ -118,6 +124,9 @@ A backend application for product management, combining a command-line interface
 
 </div>
 
+</details>
+
+
 
 
 
@@ -125,9 +134,9 @@ A backend application for product management, combining a command-line interface
 <p align="center">
   <a href="https://github.com/paulo-sempio-neto?tab=repositories">
     <img
-      src="./explore-my-projects.gif"
-      width="2000"
+      src="./explore-my-projects.svg"
       alt="Explore My Projects"
+      width="560"
     />
   </a>
 </p>
