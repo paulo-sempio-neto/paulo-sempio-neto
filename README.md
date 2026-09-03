@@ -2,9 +2,21 @@
   <img src="./paulo-identity-reveal.svg" width="100%" />
 </p>
 
+
+
+
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&width=700&repeat=true&lines=%3E+Building+reliable+systems;%3E+Designing+clean+backend+architectures;%3E+Writing+tested+REST+APIs;%3E+Improving+one+commit+at+a+time" />
+  <img
+    src="./paulo-backend-log.svg"
+    alt="Backend Build Log"
+  />
 </p>
+
+
+
+
+
 
 ---
 
