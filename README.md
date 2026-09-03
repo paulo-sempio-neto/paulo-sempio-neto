@@ -39,7 +39,7 @@ Expected graduation: December 2029
 ## 📌 Featured Project
 
 <p align="center">
-  <a href="https://github.com/paulo-sempio-neto/Sistema_Produtos">
+  <a href="https://github.com/paulo-sempio-neto/Product-Management-System">
     <img
       src="./product-management-system.gif"
       width="100%"
