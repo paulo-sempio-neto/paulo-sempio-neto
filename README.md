@@ -107,7 +107,7 @@ A backend application for product management, combining a command-line interface
 ## 📜 Courses & Certificates
 
 - **[CS50's Introduction to Computer Science](LINK_DO_CURSO)** — Harvard University **(in progress)**<br>
-  &nbsp;&nbsp;&#45; **Final project:** [Project Name](LINK_DO_PROJETO)
+  &nbsp;&nbsp;&#45; **Final project:** [API Sentinel](LINK_DO_PROJETO)
 
 
 
