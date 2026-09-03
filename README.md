@@ -78,7 +78,7 @@ A backend application for product management, combining a command-line interface
 
 ## 📜 Courses & Certificates
 
-- **[CS50's Introduction to Computer Science](LINK)** — Harvard University
+- **[CS50's Introduction to Computer Science](LINK)** — Harvard University **(in progress)**
 
 
 
