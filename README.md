@@ -47,7 +47,7 @@ Expected graduation: December 2029
 
 A backend application for product management, combining a command-line interface with a FastAPI REST API, SQLite persistence, data validation, and automated testing.
 
-[![View Source Code](https://img.shields.io/badge/View_Source_Code-1F6FEB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/paulo-sempio-neto/Sistema_Produtos)
+[![View Source Code](https://img.shields.io/badge/View_Source_Code-1F6FEB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/paulo-sempio-neto/Product-Management-System)
 
 
 
