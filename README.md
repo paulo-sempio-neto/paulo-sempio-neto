@@ -10,6 +10,7 @@
   <img
     src="./paulo-backend-log.svg"
     alt="Backend Build Log"
+    width="60%"
   />
 </p>
 
@@ -108,7 +109,7 @@ A backend application for product management, combining a command-line interface
 
 <div align="center">
 
-<sub>My GitHub activity, contribution rhythm and technology footprint.</sub>
+<sub><h4>My GitHub activity, contribution rhythm and technology footprint.<h4></sub>
 
 <br><br>
 
@@ -171,8 +172,6 @@ A backend application for product management, combining a command-line interface
 </p>
 
 <br>
-
-
 
 
 
