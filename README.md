@@ -10,7 +10,7 @@
   <img
     src="./paulo-backend-log.svg"
     alt="Backend Build Log"
-    width="60%"
+    width="72%"
   />
 </p>
 
