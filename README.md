@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="./paulo-identity-reveal.svg" width="100%" />
+  <img
+    src="./paulo-identity-reveal.svg"
+    alt="Paulo Malpice Sêmpio Neto — backend developer focused on Python, FastAPI and SQL"
+    width="100%"
+  />
 </p>
 
 
@@ -9,9 +13,19 @@
 <p align="center">
   <img
     src="./paulo-backend-log.svg"
-    alt="Backend Build Log"
+    alt="Backend build log: improving one reliable commit at a time"
     width="72%"
   />
+</p>
+
+
+
+
+
+<p align="center">
+  <strong>🇧🇷 Resumo em português</strong><br>
+  Sou estudante de Ciência da Computação e desenvolvedor backend em formação,
+  com foco em Python, FastAPI, SQL e testes automatizados.
 </p>
 
 
@@ -22,6 +36,11 @@
 
 I am a backend developer based in Cuiabá, Mato Grosso, Brazil, focused on building reliable applications with Python and FastAPI.
 My current focus is REST API development, SQL, input validation, automated testing, and clean project organization.
+
+
+
+
+
 
 ## 🎓 Education
 
@@ -91,6 +110,26 @@ A backend application for product management, combining a command-line interface
 
 - **Portuguese:** Native
 - **English:** Intermediate (B1) · Currently improving
+
+
+
+
+
+
+
+
+## 🚧 Currently Building
+
+I am currently improving the **[Product Management System](https://github.com/paulo-sempio-neto/Product-Management-System)**, a backend application built with Python, FastAPI and SQLite.
+
+Current focus:
+
+- Improving API validation and error handling
+- Expanding automated tests for REST API endpoints
+- Refining the separation between API, business logic and database layers
+- Improving project documentation
+
+
 
 
 
