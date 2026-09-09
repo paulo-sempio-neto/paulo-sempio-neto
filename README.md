@@ -202,7 +202,7 @@ I am currently building a multi-tenant SaaS backend for managing companies, user
 <h2>📫 Contact</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/paulo-malpice-sêmpio-neto-ba79673a6/"><img src="https://img.shields.io/badge/LinkedIn-0B3A67?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/paulo-malpice-sempio-neto/"><img src="https://img.shields.io/badge/LinkedIn-0B3A67?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:paulosempio.dev@gmail.com"><img src="https://img.shields.io/badge/Email-0B3A67?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://discord.com/users/1444546177977684018"><img src="https://img.shields.io/badge/Discord-0B3A67?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </p>
