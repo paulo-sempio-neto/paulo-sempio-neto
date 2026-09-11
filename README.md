@@ -69,34 +69,30 @@ A backend application for product management, combining a command-line interface
 
 
 
-## 🛠️ Core Stack
+<h2>🛠️ Core Stack</h2>
 
+<h3>Backend</h3>
 
+<p>
+  <kbd><img src="https://cdn.simpleicons.org/python/3776AB" width="18" alt="Python"> Python</kbd>
+  <kbd><img src="https://cdn.simpleicons.org/fastapi/009688" width="18" alt="FastAPI"> FastAPI</kbd>
+  <kbd><img src="https://cdn.simpleicons.org/pydantic/E92063" width="18" alt="Pydantic"> Pydantic</kbd>
+</p>
 
+<h3>Database</h3>
 
-**Backend**
+<p>
+  <kbd><img src="https://img.icons8.com/fluency/96/sql.png" width="18" alt="SQL"> SQL</kbd>
+  <kbd><img src="https://cdn.simpleicons.org/sqlite/003B57" width="18" alt="SQLite"> SQLite</kbd>
+</p>
 
-![Python](https://img.shields.io/badge/Python-0B3A67?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-0B3A67?style=for-the-badge&logo=fastapi&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-0B3A67?style=for-the-badge&logo=pydantic&logoColor=white)
+<h3>Testing &amp; Tools</h3>
 
-
-
-
-**Database**
-
-![SQL](https://img.shields.io/badge/SQL-0B3A67?style=for-the-badge&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-0B3A67?style=for-the-badge&logo=sqlite&logoColor=white)
-
-
-
-
-
-**Testing & Tools**
-
-![Pytest](https://img.shields.io/badge/Pytest-0B3A67?style=for-the-badge&logo=pytest&logoColor=white)
-![Git](https://img.shields.io/badge/Git-0B3A67?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-0B3A67?style=for-the-badge&logo=github&logoColor=white)
+<p>
+  <kbd><img src="https://cdn.simpleicons.org/pytest/0A9EDC" width="18" alt="Pytest"> Pytest</kbd>
+  <kbd><img src="https://cdn.simpleicons.org/git/F05032" width="18" alt="Git"> Git</kbd>
+  <kbd><img src="https://cdn.simpleicons.org/github/181717" width="18" alt="GitHub"> GitHub</kbd>
+</p>
 
 
 
