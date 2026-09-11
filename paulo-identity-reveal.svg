@@ -225,7 +225,7 @@
   </g>
 
   <g class="signal-labels" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="10" font-weight="600" letter-spacing="0.8">
-    <text class="signal-label" x="310" y="138">Client</text>
+    <text class="signal-label" x="310" y="138">Frontend</text>
     <text class="signal-label" x="500" y="138">API</text>
     <text class="signal-label" x="690" y="138">Database</text>
   </g>
