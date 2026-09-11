@@ -22,26 +22,6 @@
 
 
 
-## 👨‍💻 About Me
-
-I am a backend developer based in Cuiabá, Mato Grosso, Brazil, focused on building reliable applications with Python and FastAPI.
-My current focus is REST API development, SQL, input validation, automated testing, and clean project organization.
-
-
-
-
-
-
-## 🎓 Education
-
-**Bachelor of Science in Computer Science** (in progress)<br>
-Universidade de Cuiabá (UNIC)<br>
-Expected graduation: December 2029
-
-
-
-
-
 ## 📌 Featured Project
 
 <p align="center">
@@ -63,6 +43,34 @@ A backend application for product management, combining a command-line interface
 
 
 [![View Source Code](https://img.shields.io/badge/View_Source_Code-1F6FEB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/paulo-sempio-neto/Product-Management-System)
+
+
+
+
+
+
+
+
+
+## 👨‍💻 About Me
+
+I am a backend developer based in Cuiabá, Mato Grosso, Brazil, focused on building reliable applications with Python and FastAPI.
+My current focus is REST API development, SQL, input validation, automated testing, and clean project organization.
+
+
+
+
+
+
+## 🎓 Education
+
+**Bachelor of Science in Computer Science** (in progress)<br>
+Universidade de Cuiabá (UNIC)<br>
+Expected graduation: December 2029
+
+
+
+
 
 
 
