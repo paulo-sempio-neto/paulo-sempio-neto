@@ -22,7 +22,7 @@
 
 
 
-## 📌 Featured Project
+## ◆ Featured Project
 
 <p align="center">
   <a href="https://github.com/paulo-sempio-neto/Product-Management-System">
@@ -52,7 +52,7 @@ A backend application for product management, combining a command-line interface
 
 
 
-## 👨‍💻 About Me
+## ▣ About Me
 
 I am a backend developer based in Cuiabá, Mato Grosso, Brazil, focused on building reliable applications with Python and FastAPI.
 My current focus is REST API development, SQL, input validation, automated testing, and clean project organization.
@@ -62,7 +62,7 @@ My current focus is REST API development, SQL, input validation, automated testi
 
 
 
-## 🎓 Education
+## ◇ Education
 
 **Bachelor of Science in Computer Science** (in progress)<br>
 Universidade de Cuiabá (UNIC)<br>
@@ -77,7 +77,7 @@ Expected graduation: December 2029
 
 
 
-<h2>🛠️ Core Stack</h2>
+<h2>⚙ Core Stack</h2>
 
 <h3>Backend</h3>
 
@@ -108,7 +108,7 @@ Expected graduation: December 2029
 
 
 
-## 📜 Courses & Certificates
+## ▤ Learning & Certificates
 
 - **[CS50's Introduction to Computer Science](LINK_DO_CURSO)** — Harvard University **(in progress)**<br>
   &nbsp;&nbsp;&#45; **Final project:** [API Sentinel](LINK_DO_PROJETO)
@@ -119,7 +119,7 @@ Expected graduation: December 2029
 
 
 
-## 🌐 Languages
+## ◎ Languages
 
 - **Portuguese:** Native
 - **English:** Intermediate (B1) · Currently improving
@@ -132,7 +132,7 @@ Expected graduation: December 2029
 
 
 <details>
-<summary><h2>🚧 Currently Building</h2></summary>
+<summary><h2>⚒ Currently Building</h2></summary>
 
 <br>
 
@@ -161,7 +161,7 @@ I am currently building a multi-tenant SaaS backend for managing companies, user
 
 
 <details>
-<summary><h2>📊 GitHub Statistics</h2></summary>
+<summary><h2>▥ Activity</h2></summary>
 
 <br>
 
@@ -203,7 +203,7 @@ I am currently building a multi-tenant SaaS backend for managing companies, user
 
 
 
-<h2>📫 Contact</h2>
+<h2>✉ Contact</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/paulo-malpice-sempio-neto/"><img src="https://img.shields.io/badge/LinkedIn-0B3A67?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
