@@ -210,7 +210,6 @@ I am currently building a multi-tenant SaaS backend for managing companies, user
 
 
 
-
 <p align="center">
   <a href="https://github.com/paulo-sempio-neto?tab=repositories">
     <img
