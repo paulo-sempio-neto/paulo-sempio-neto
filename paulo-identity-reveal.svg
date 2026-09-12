@@ -238,22 +238,6 @@
 
   
 
-<!-- fluxo de dados profissional -->
-<path class="data-trail"
-      d="M310 118H690"
-      fill="none"
-      stroke="#5ee7ff"
-      stroke-width="1.5"
-      stroke-linecap="round"
-      stroke-dasharray="3 22"
-      opacity="0.45">
-
-    <animate attributeName="stroke-dashoffset"
-             values="0;-200"
-             dur="4s"
-             repeatCount="indefinite"/>
-
-</path>
 
 <!-- brilho do fluxo -->
 <path class="data-flow-glow"
