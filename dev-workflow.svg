@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="58" viewBox="0 0 680 58">
+  <title>Discover → Design → Build → Validate → Launch</title>
+
+  <style>
+    .word {
+      fill: #24292f;
+      font: 700 21px 'Segoe UI', Helvetica, Arial, sans-serif;
+    }
+
+    .arrow {
+      fill: none;
+      stroke: #8c959f;
+      stroke-width: 2.2;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      animation: pulse 4.8s ease-in-out infinite;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      .word { fill: #e6edf3; }
+    }
+
+    @keyframes pulse {
+      0%, 4%, 26%, 100% { stroke: #8c959f; }
+      12%, 18% { stroke: #2f81f7; }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      .arrow {
+        animation: none;
+        stroke: #2f81f7;
+      }
+    }
+  </style>
+
+  <g text-anchor="middle">
+    <text class="word" x="64" y="36">Discover</text>
+    <text class="word" x="210" y="36">Design</text>
+    <text class="word" x="341" y="36">Build</text>
+    <text class="word" x="476" y="36">Validate</text>
+    <text class="word" x="621" y="36">Launch</text>
+  </g>
+
+  <path class="arrow"
+    d="M126 29h24m-7-6 7 6-7 6"/>
+
+  <path class="arrow" style="animation-delay: 0.8s"
+    d="M268 29h24m-7-6 7 6-7 6"/>
+
+  <path class="arrow" style="animation-delay: 1.6s"
+    d="M393 29h24m-7-6 7 6-7 6"/>
+
+  <path class="arrow" style="animation-delay: 2.4s"
+    d="M543 29h24m-7-6 7 6-7 6"/>
+</svg>
