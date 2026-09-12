@@ -245,8 +245,8 @@
       opacity="0.35">
 
     <animate attributeName="stroke-dashoffset"
-             values="0;-300"
-             dur="2s"
+             values="0;-1000"
+             dur="1s"
              repeatCount="indefinite"/>
 
 </path>
