@@ -207,13 +207,13 @@ I am currently building a multi-tenant SaaS backend for managing companies, user
 
 <p align="center">
   <a href="https://www.linkedin.com/in/paulo-malpice-sempio-neto/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-161B22?style=for-the-badge&logo=linkedin&logoColor=58D6FF" />
   </a>
   <a href="mailto:paulosempio.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/EMAIL-161B22?style=for-the-badge&logo=gmail&logoColor=58D6FF" />
   </a>
   <a href="https://discord.com/users/1444546177977684018">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/DISCORD-161B22?style=for-the-badge&logo=discord&logoColor=58D6FF" />
   </a>
 </p>
 
