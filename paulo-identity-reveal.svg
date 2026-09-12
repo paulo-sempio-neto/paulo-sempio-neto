@@ -230,23 +230,49 @@
     <text class="signal-label" x="690" y="138">Database</text>
   </g>
 
- 
 
-<!-- rastro de dados -->
+
+
+
+
+
+  
+
+<!-- fluxo de dados profissional -->
 <path class="data-trail"
       d="M310 118H690"
       fill="none"
       stroke="#5ee7ff"
-      stroke-width="2"
+      stroke-width="1.5"
       stroke-linecap="round"
-      stroke-dasharray="10 20"
-      opacity="0.35">
+      stroke-dasharray="3 22"
+      opacity="0.45">
 
     <animate attributeName="stroke-dashoffset"
-             values="0;-120"
-             dur="5s"
+             values="0;-200"
+             dur="4s"
              repeatCount="indefinite"/>
 
 </path>
 
+<!-- brilho do fluxo -->
+<path class="data-flow-glow"
+      d="M310 118H690"
+      fill="none"
+      stroke="#ffffff"
+      stroke-width="2"
+      stroke-linecap="round"
+      stroke-dasharray="1 80"
+      opacity="0.8">
+
+    <animate attributeName="stroke-dashoffset"
+             values="0;-380"
+             dur="3s"
+             repeatCount="indefinite"/>
+
+</path>
+
+
+
+  
 </svg>
