@@ -241,12 +241,12 @@
       stroke="#5ee7ff"
       stroke-width="2"
       stroke-linecap="round"
-      stroke-dasharray="10 20"
+      stroke-dasharray="2 15"
       opacity="0.35">
 
     <animate attributeName="stroke-dashoffset"
-             values="0;-120"
-             dur="5s"
+             values="0;-300"
+             dur="2s"
              repeatCount="indefinite"/>
 
 </path>
