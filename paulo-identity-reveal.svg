@@ -242,7 +242,7 @@
       stroke-width="1"
       stroke-linecap="round"
       stroke-dasharray="2 15"
-      opacity="0.10">
+      opacity="0.01">
 
     <animate attributeName="stroke-dashoffset"
              values="0;-500"
