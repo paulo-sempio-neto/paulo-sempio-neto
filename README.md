@@ -196,7 +196,7 @@ I am currently building a multi-tenant SaaS backend for managing companies, user
 
 </details>
 
-
+**Discover → Design → Build → Validate → Launch**
 
 
 
