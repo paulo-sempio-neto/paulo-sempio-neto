@@ -42,8 +42,7 @@ A backend application for product management, combining a command-line interface
 
 
 
-[![View Source Code](https://img.shields.io/badge/View_Source_Code-1F6FEB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/paulo-sempio-neto/Product-Management-System)
-
+[![Source Code](https://img.shields.io/badge/SOURCE_CODE-161B22?style=for-the-badge&logo=github&logoColor=58D6FF)](https://github.com/paulo-sempio-neto/Product-Management-System)
 
 
 
