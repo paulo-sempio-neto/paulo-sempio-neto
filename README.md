@@ -206,15 +206,10 @@ I am currently building a multi-tenant SaaS backend for managing companies, user
 
 
 
-
-<p align="center" style="text-decoration:none;">
-<a href="https://www.linkedin.com/in/paulo-malpice-sempio-neto/" style="text-decoration:none;">
-<img src="https://img.shields.io/badge/LINKEDIN-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
-</a><a href="mailto:paulosempio.dev@gmail.com" style="text-decoration:none;">
-<img src="https://img.shields.io/badge/EMAIL-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335">
-</a><a href="https://discord.com/users/1444546177977684018" style="text-decoration:none;">
-<img src="https://img.shields.io/badge/DISCORD-161B22?style=for-the-badge&logo=discord&logoColor=5865F2">
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/paulo-malpice-sempio-neto/"><img src="https://img.shields.io/badge/LINKEDIN-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"></a>
+  <a href="mailto:paulosempio.dev@gmail.com"><img src="https://img.shields.io/badge/EMAIL-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"></a>
+  <a href="https://discord.com/users/1444546177977684018"><img src="https://img.shields.io/badge/DISCORD-161B22?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord"></a>
 </p>
 
 
