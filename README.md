@@ -207,11 +207,11 @@ I am currently building a multi-tenant SaaS backend for managing companies, user
 
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/paulo-malpice-sempio-neto/"><img src="https://img.shields.io/badge/LINKEDIN-161B22?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzBBNjZDMiIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDMtMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM0VjloMy40MnYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzIgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEyIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTJ6TTcuMSAyMC40NUgzLjU0VjlINy4xek0yMi4yMyAwSDEuNzdDLjc5IDAgMCAuNzcgMCAxLjczdjIwLjU0QzAgMjMuMjMuNzkgMjQgMS43NyAyNGgyMC40NmMuOTggMCAxLjc3LS43NyAxLjc3LTEuNzNWMS43M0MyNCAuNzcgMjMuMjEgMCAyMi4yMyAweiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn"></   a>
-
-  <a href="mailto:paulosempio.dev@gmail.com"><img src="https://img.shields.io/badge/EMAIL-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"></a>
-  <a href="https://discord.com/users/1444546177977684018"><img src="https://img.shields.io/badge/DISCORD-161B22?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord"></a>
+<a href="https://www.linkedin.com/in/paulo-malpice-sempio-neto/"><img height="28" src="https://img.shields.io/badge/LINKEDIN-161B22?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzBBNjZDMiIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDMtMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM0VjloMy40MnYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzIgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEyIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTJ6TTcuMSAyMC40NUgzLjU0VjlINy4xek0yMi4yMyAwSDEuNzdDLjc5IDAgMCAuNzcgMCAxLjczdjIwLjU0QzAgMjMuMjMuNzkgMjQgMS43NyAyNGgyMC40NmMuOTggMCAxLjc3LS43NyAxLjc3LTEuNzNWMS43M0MyNCAuNzcgMjMuMjEgMCAyMi4yMyAweiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn"></a>
+<a href="mailto:paulosempio.dev@gmail.com"><img height="28" src="https://img.shields.io/badge/EMAIL-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"></a>
+<a href="https://discord.com/users/1444546177977684018"><img height="28" src="https://img.shields.io/badge/DISCORD-161B22?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord"></a>
 </p>
+
 
 
 
