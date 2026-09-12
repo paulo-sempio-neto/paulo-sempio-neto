@@ -135,6 +135,12 @@ Expected graduation: December 2029
 
 <br>
 
+<p align="center">
+  <img src="./dev-workflow.svg" alt="Discover → Design → Build → Validate → Launch" width="680">
+</p>
+
+
+
 ### Multi-Tenant Project Management API
 
 I am currently building a multi-tenant SaaS backend for managing companies, users, projects and tasks while keeping each company's data isolated.
