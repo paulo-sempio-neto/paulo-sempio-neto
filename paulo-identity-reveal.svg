@@ -36,8 +36,8 @@
       <stop offset="52%" stop-color="#BCEEFF" stop-opacity="0.7"/>
       <stop offset="62%" stop-color="#58D6FF" stop-opacity="0.18"/>
       <stop offset="75%" stop-color="#58D6FF" stop-opacity="0"/>
-      <animate attributeName="x1" values="-100%;100%" dur="10s" begin="2s" repeatCount="indefinite"/>
-      <animate attributeName="x2" values="0%;200%" dur="10s" begin="2s" repeatCount="indefinite"/>
+      <animate attributeName="x1" values="-100%;100%" dur="18s" begin="0s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0%;200%" dur="18s" begin="0s" repeatCount="indefinite"/>
     </linearGradient>
 
     <filter id="pulseGlow" x="-100%" y="-200%" width="300%" height="500%">
