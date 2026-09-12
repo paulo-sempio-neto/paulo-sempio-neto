@@ -230,7 +230,23 @@
     <text class="signal-label" x="690" y="138">Database</text>
   </g>
 
-  <circle class="live-pulse" cx="310" cy="118" r="2.8" filter="url(#pulseGlow)">
-    <animateMotion dur="5.2s" begin="1.8s" repeatCount="indefinite" path="M0 0H380"/>
-  </circle>
+ 
+
+<!-- rastro de dados -->
+<path class="data-trail"
+      d="M310 118H690"
+      fill="none"
+      stroke="#5ee7ff"
+      stroke-width="2"
+      stroke-linecap="round"
+      stroke-dasharray="10 20"
+      opacity="0.35">
+
+    <animate attributeName="stroke-dashoffset"
+             values="0;-120"
+             dur="5s"
+             repeatCount="indefinite"/>
+
+</path>
+
 </svg>
