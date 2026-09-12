@@ -41,7 +41,7 @@
     </linearGradient>
 
     <filter id="pulseGlow" x="-100%" y="-200%" width="300%" height="500%">
-      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
       <feMerge>
         <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
