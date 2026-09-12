@@ -233,30 +233,23 @@
 
 
 
-
-
-
   
-
-
-<!-- brilho do fluxo -->
-<path class="data-flow-glow"
+<!-- rastro de dados -->
+<path class="data-trail"
       d="M310 118H690"
       fill="none"
-      stroke="#ffffff"
+      stroke="#5ee7ff"
       stroke-width="2"
       stroke-linecap="round"
-      stroke-dasharray="1 80"
-      opacity="0.8">
+      stroke-dasharray="10 20"
+      opacity="0.35">
 
     <animate attributeName="stroke-dashoffset"
-             values="0;-380"
-             dur="3s"
+             values="0;-120"
+             dur="5s"
              repeatCount="indefinite"/>
 
 </path>
-
-
 
   
 </svg>
