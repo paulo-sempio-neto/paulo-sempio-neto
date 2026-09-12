@@ -239,10 +239,10 @@
       d="M310 118H690"
       fill="none"
       stroke="#5ee7ff"
-      stroke-width="2"
+      stroke-width="1"
       stroke-linecap="round"
       stroke-dasharray="2 15"
-      opacity="0.35">
+      opacity="0.10">
 
     <animate attributeName="stroke-dashoffset"
              values="0;-500"
