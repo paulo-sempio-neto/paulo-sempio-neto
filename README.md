@@ -204,6 +204,7 @@ I am currently building a multi-tenant SaaS backend for managing companies, user
 
 <h2>✉ Contact</h2>
 
+
 <p align="center">
   <a href="https://www.linkedin.com/in/paulo-malpice-sempio-neto/" style="text-decoration:none">
     <img src="https://img.shields.io/badge/LINKEDIN-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
