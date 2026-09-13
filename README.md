@@ -54,8 +54,10 @@ A backend application for product management, combining a command-line interface
 ## ▣ About Me
 
 I am a backend developer based in Cuiabá, Mato Grosso, Brazil, focused on building reliable applications with Python and FastAPI.
+
 My current focus is REST API development, SQL, input validation, automated testing, and clean project organization.
 
+Open to backend internships and junior Python developer opportunities in Brazil or remotely.
 
 
 
