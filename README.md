@@ -20,7 +20,7 @@
 </p>
 
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20site-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)]( https://paulo-sempio-neto.github.io/-cs50-homepage/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Site-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://paulo-sempio-neto.github.io/)
 
 
 ## ◆ Featured Project
