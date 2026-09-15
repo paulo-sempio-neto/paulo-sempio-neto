@@ -10,6 +10,7 @@
 
 
 
+
 <p align="center">
   <img
     src="./paulo-backend-log.svg"
@@ -68,6 +69,7 @@ Open to backend internships and junior Python developer opportunities in Brazil 
 **Bachelor of Science in Computer Science** (in progress)<br>
 Universidade de Cuiabá (UNIC)<br>
 Expected graduation: December 2029
+
 
 
 
