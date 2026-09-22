@@ -10,7 +10,6 @@
 
 
 
-
 <p align="center">
   <img
     src="./paulo-backend-log.svg"
