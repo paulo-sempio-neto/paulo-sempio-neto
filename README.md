@@ -112,8 +112,8 @@ Expected graduation: December 2029
 
 ## ▤ Learning & Certificates
 
-- **[CS50's Introduction to Computer Science](https://cs50.harvard.edu/certificates/3ac0144a-2d62-4b7f-b6e0-9276362b2060)** — Harvard University <br>
-  &nbsp;&nbsp;&#45; **Final project:** [API Sentinel](https://github.com/paulo-sempio-neto/api-sentinel/tree/main/api-sentinel-starter)
+- **[CS50x: Introduction to Computer Science](https://cs50.harvard.edu/certificates/3ac0144a-2d62-4b7f-b6e0-9276362b2060)** — Harvard University <br>
+  &nbsp;&nbsp;&#45; **Final project:** [API Sentinel](https://api-sentinel-pi.vercel.app)
 
 
 
