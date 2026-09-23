@@ -25,7 +25,7 @@
 ## ◆ Featured Project
 
 <p align="center">
-  <a href="https://github.com/paulo-sempio-neto/Product-Management-System">
+  <a href="https://product-management-system-beige.vercel.app">
     <img
       src="./product-management-system.gif"
       width="100%"
