@@ -162,7 +162,34 @@ I am currently building a multi-tenant SaaS backend for managing companies, user
 </details>
 
 
+<details>
+<summary><h2>🌎 Other Projects</h2></summary>
 
+<br>
+
+<div align="center">
+
+### GanhoCerto
+
+<a href="https://ganho-certo-vczl.onrender.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Live%20Demo-GanhoCerto-0F766E?style=for-the-badge&logo=render&logoColor=white" />
+</a>
+
+</div>
+
+GanhoCerto is a financial control platform designed for drivers to track their daily earnings, expenses, mileage, and real profit.
+
+The application helps users understand their real income by transforming daily work data into useful financial insights.
+
+**Technologies:**
+- React
+- FastAPI
+- PostgreSQL
+- JWT Authentication
+- Docker
+- Render Deployment
+
+</details>
 
 
 
