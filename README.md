@@ -143,22 +143,50 @@ Expected graduation: December 2029
 
 
 
-### Multi-Tenant Project Management API
 
-I am currently building a multi-tenant SaaS backend for managing companies, users, projects and tasks while keeping each company's data isolated.
 
-**Planned stack:** Python · FastAPI · PostgreSQL · SQLAlchemy · Alembic · Pydantic · JWT · Pytest · Docker
 
-**Current focus:**
+<!-- LEXIN PROJECT -->
 
-- Company and user registration
-- Authentication with password hashing and JWT
-- Roles and permissions for owners, administrators and members
-- Data isolation between companies
-- Project and task management
-- Automated testing
+<h3>
+  <img src="./lexin-logo.webp" width="38" height="38" alt="LEXIN Logo" />
+  &nbsp; LEXIN — English Learning Platform
+</h3>
 
-</details>
+<p>
+  An independent English learning platform designed
+  to help Brazilian beginners take their first steps
+  toward real communication in English.
+</p>
+
+<p>
+  Built and launched as a real-world digital product,
+  combining software development, responsive design,
+  user experience, and entrepreneurship.
+</p>
+
+<strong>Project Highlights</strong>
+
+- Full-stack web application
+- Responsive and mobile-friendly interface
+- Beginner-focused learning experience
+- Production deployment
+- Continuous development and improvements
+
+<p>
+  <a href="https://lexin-ingles.netlify.app/">
+    <img src="https://img.shields.io/badge/VISIT_LEXIN-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit LEXIN Website" />
+  </a>
+</p>
+
+<p>
+  🟢 <strong>Live Project</strong> &nbsp; | &nbsp;
+  🔒 <strong>Private Source Code</strong>
+</p>
+
+
+
+
 
 
 <details>
