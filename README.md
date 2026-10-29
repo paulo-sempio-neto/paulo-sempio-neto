@@ -180,15 +180,18 @@ Expected graduation: December 2029
   </a>
 </p>
 
+
 <p>
   🟢 <strong>Live Project</strong> &nbsp; | &nbsp;
   🔒 <strong>Private Source Code</strong>
 </p>
 
+</details>
+
+<!-- END CURRENTLY BUILDING -->
 
 
-
-
+<!-- OTHER PROJECTS -->
 
 <details>
 <summary><h2>🌎 Other Projects</h2></summary>
